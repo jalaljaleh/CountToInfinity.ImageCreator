@@ -1,3 +1,36 @@
+<div id="top"></div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/jalaljaleh/CountToInfinity.ImageCreator/refs/heads/master/CountToInfinity/countingjourney.ico" alt="Logo" width="150" height="150">
+  </a>
+  <h3 align="center"> Count To Infinity Image Generator</h3>
+  <p align="center">
+  Count To Infinity Image Generator, generates image files for sequential numbers by compositing digit sprites onto a template
+    <br />  <br />
+    <a href="https://www.instagram.com/countingjourney/">Instagram page</a>
+    ·
+    <a href="https://github.com/JalalJaleh/CountToInfinity.ImageCreator/releases">Releases</a>
+    ·
+    <a href="https://github.com/JalalJaleh/CountToInfinity.ImageCreator/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/JalalJaleh/CountToInfinity.ImageCreator/issues">Request Feature</a>
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://discord.gg/GVUXMNv7vV">
+    <img src="https://discord.com/api/guilds/875716592770637824/widget.png" alt="Discord">
+  </a>
+</div>
+
+<br>
+<br>
+
+
+
 # Count To Infinity
 
 A small CLI tool that generates image files for sequential numbers by compositing digit sprites onto a template. Designed for simplicity, speed and easy customization.
